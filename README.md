@@ -5,7 +5,7 @@ The app scrapes Wired for top stories on their homepage and enables the user to 
 Built with HTML, Javascript, JQuery, CSS, Materialize, Node.JS, Express, Handlebars, Mongoose, MongoDB & Heroku.
 
 # Link to App.
-https://.herokuapp.com/
+https://blooming-lake-23645.herokuapp.com/
 
 # Screen Shots
 ![scrape1](https://user-images.githubusercontent.com/27470842/37533480-31543b1e-28ff-11e8-98c2-e6efc81d2734.PNG)
